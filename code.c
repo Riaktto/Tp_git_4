@@ -8,6 +8,9 @@ main(){
 
 void laouinayassine() {printf("konfli");}
 void afficherImad(){printf("imad the boss");}
+
+void afficherLaila(){printf("laila khalfaoui");}
+
 void mouad() {printf("mouad");}
 void MehdiSoussan() {printf("Mehdi");}
 void anass() {printf("anass");}
