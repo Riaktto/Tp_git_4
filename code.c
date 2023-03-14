@@ -1,4 +1,11 @@
 #include<stdio.h>
+
+void afficherAnissa(){printf("anissa");}
+}
+main(){
+	printf("principale");
+
+
 void laouinayassine() {printf("konfli");}
 void afficherImad(){printf("imad the boss");}
 
@@ -18,4 +25,5 @@ void afficher()
 	printf("veuillez faire un pul svp");
 	printf("merci^-^");
 }
+
 }
