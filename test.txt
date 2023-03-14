@@ -6,11 +6,8 @@ test principale
 
 test yassine laouina
 
-
-<<<<<<< HEAD
 test imad jaber the boss
 
 
-=======
 li bghito
->>>>>>> abd3f81148e3f835b94ff39743b9bceed06e92c0
+
